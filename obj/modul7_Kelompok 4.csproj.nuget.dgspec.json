@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KULIAH\\semester 4\\konstruksi PL\\modul7_Kelompok 4\\modul7_Kelompok 4\\modul7_Kelompok 4.csproj": {}
+    "C:\\Users\\User\\source\\repos\\kpl-modul7-kelompok4\\modul7_Kelompok 4.csproj": {}
   },
   "projects": {
-    "D:\\KULIAH\\semester 4\\konstruksi PL\\modul7_Kelompok 4\\modul7_Kelompok 4\\modul7_Kelompok 4.csproj": {
+    "C:\\Users\\User\\source\\repos\\kpl-modul7-kelompok4\\modul7_Kelompok 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KULIAH\\semester 4\\konstruksi PL\\modul7_Kelompok 4\\modul7_Kelompok 4\\modul7_Kelompok 4.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\kpl-modul7-kelompok4\\modul7_Kelompok 4.csproj",
         "projectName": "modul7_Kelompok 4",
-        "projectPath": "D:\\KULIAH\\semester 4\\konstruksi PL\\modul7_Kelompok 4\\modul7_Kelompok 4\\modul7_Kelompok 4.csproj",
-        "packagesPath": "C:\\Users\\Manda\\.nuget\\packages\\",
-        "outputPath": "D:\\KULIAH\\semester 4\\konstruksi PL\\modul7_Kelompok 4\\modul7_Kelompok 4\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\kpl-modul7-kelompok4\\modul7_Kelompok 4.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\kpl-modul7-kelompok4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Manda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

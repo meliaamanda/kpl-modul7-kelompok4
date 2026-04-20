@@ -1,0 +1,3 @@
+﻿DataMahasiswa103082400001.ReadJSON();
+TeamMembers103082400001.ReadJSON();
+GlossaryItem103082400001.ReadJSON();

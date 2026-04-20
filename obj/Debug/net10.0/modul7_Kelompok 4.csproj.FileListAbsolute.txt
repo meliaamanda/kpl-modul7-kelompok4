@@ -1,0 +1,18 @@
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\modul7_Kelompok 4.exe
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\modul7_Kelompok 4.deps.json
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\modul7_Kelompok 4.runtimeconfig.json
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\modul7_Kelompok 4.dll
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\modul7_Kelompok 4.pdb
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.AssemblyInfoInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.AssemblyInfo.cs
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.sourcelink.json
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.dll
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\refint\modul7_Kelompok 4.dll
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.pdb
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\modul7_Kelompok 4.genruntimeconfig.cache
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\obj\Debug\net10.0\ref\modul7_Kelompok 4.dll
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\jurnal7_1_103082400039.json
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\jurnal7_2_103082400039.json
+D:\KULIAH\semester 4\konstruksi PL\modul7_Kelompok 4\modul7_Kelompok 4\bin\Debug\net10.0\jurnal7_3_103082400039.json

@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Miratun ",
+       "lastName": "Nisa",
+       "gender": "female",
+       "age": 19,
+       "nim": "103082400001"
+    },
+    {
+       "firstName": "Amelia",
+       "lastName": "Amanda",
+       "gender": "female",
+       "age": 20,
+       "nim": "103082400039"
+    },
+    {
+        "firstName": "Debby",
+        "lastName": "Tampubolon",
+        "gender": "female",
+        "age": 20,
+        "nim": "103082400029"
+    },
+    {
+        "firstName": "Alvan",
+        "lastName": "Hani",
+        "gender": "male",
+        "age": 20,
+        "nim": "103082400009"
+    }
+  ]
+}
